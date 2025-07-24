@@ -1,1 +1,17 @@
 # COMPILER-DESIGN-BASICS
+
+COMPANY: CODTECH IT SOLUTIONS
+
+NAME: SHWETA KUMARI 
+
+INTERN ID: CT04DH1310
+
+DOMAIN: C Programming 
+
+DURATION: 4 WEEKS
+
+MENTOR: NEELA SANTOSH
+
+OUTPUT:
+
+[CODTECH_Task3_Lexical_Analyzer (1).pdf](https://github.com/user-attachments/files/21411894/CODTECH_Task3_Lexical_Analyzer.1.pdf)
